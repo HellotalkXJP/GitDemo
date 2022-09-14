@@ -15,6 +15,8 @@ class ViewController: UIViewController {
         print("dev")
     }
 
-
+    func test() {
+        print("add 1")
+    }
 }
 
