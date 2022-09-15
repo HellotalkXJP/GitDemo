@@ -20,6 +20,7 @@ class ViewController: UIViewController {
         print("add 2")
         print("add 3")
         print("add 4")
+        print("add 5")
     }
 }
 
