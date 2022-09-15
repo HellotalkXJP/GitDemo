@@ -21,6 +21,13 @@ class ViewController: UIViewController {
         print("dev6")
     }
 
-
+    func test() {
+        print("add 1")
+        print("add 2")
+        print("add 3")
+        print("add 4")
+        print("add 5")
+        print("add 6")
+    }
 }
 
