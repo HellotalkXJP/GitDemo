@@ -14,6 +14,7 @@ class ViewController: UIViewController {
         // Do any additional setup after loading the view.
         print("pick dev")
         print("pick dev1")
+        print("pick dev2")
     }
 
 
